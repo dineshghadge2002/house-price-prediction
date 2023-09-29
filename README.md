@@ -50,4 +50,4 @@ The project evaluates the Linear Regression model's performance with the followi
 - MAE: 1497.143245542242
 - MSE: 3648827.320395196
 - RMSE: 1910.1903885202637
-- R²: 0.9999995776276368# house-price-prediction
+- R²: 0.9999995776276368
